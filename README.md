@@ -1,2 +1,2 @@
 # potential-octo-tweet
-Twitter clone in Next.js
+NextJS frontend app with .Net backend services
